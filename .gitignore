@@ -1,0 +1,8 @@
+# VS Code Specific Files
+
+.vscode/
+
+# Executables and Stackdump Error Messages
+
+*.exe
+*.stackdump
